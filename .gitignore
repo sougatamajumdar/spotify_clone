@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+/backend/node_modules/
+/frontend/node_modules/
+.continue/
+backend/tmp/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Production Build Folders
+/client/build/
+/client/dist/
+
+# Logs & System Files
+*.log
+.DS_Store
+.vscode/
